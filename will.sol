@@ -70,5 +70,5 @@ contract Will{
     function hasDeceased() public onlyOwner{
         isDead = true;
         payout();
-    }
-}
+    } 
+}z
